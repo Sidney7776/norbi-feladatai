@@ -1,5 +1,5 @@
 szam_kezd=3
-szam_veg=100000
+szam_veg=10000
 i=1
 oszto=0
 n=128
